@@ -1,4 +1,6 @@
-This File is associated with two source code files, Server code and Client code.
+Streaming Video Server and Client
+
+This project is associated with two source code files, Server code and Client code.
 
 To compile each source code file use the following command:
 
